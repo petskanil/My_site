@@ -1,0 +1,86 @@
+/****************Tags************/
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #1A374D;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1 {
+    /* display: inline-block; */
+    /* width: 20%; */
+    margin: 50px auto 0 auto;
+    font-size: 3rem;
+}
+
+/* p {
+    display: inline-block;
+} */
+
+/****************Main containers************/
+
+
+.top_container {
+    background-color: #B1D0E0;
+    padding: 10px;
+}
+
+.middle-container {
+    padding: 10px;
+
+}
+
+.bottom-container {
+    padding: 10px;
+
+}
+
+/****************Navigation Bar************/
+.navigation_item {
+    display: inline-block;
+    position: relative;
+    margin-left: 10px;
+    left: 30%;
+    text-decoration: none;
+    color: #406882;
+}
+
+.navigation_image {
+    position: absolute;
+    left: 0px;
+    height: 90%;
+
+}
+
+#navigation_bar {
+    position: relative;
+    margin: 0px;
+    padding: 10px;
+}
+
+/****************Cover images************/
+
+.cover_image {
+    width: 400px;
+}
+.feedback_above {
+    width: 150px;
+    position: relative;
+    right: 20%;
+}
+.cloud_above {
+    width: 150px;
+    position: relative;
+    left: 20%;
+}
+
+.profilbilde {
+    width:150px;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+.skill_image {
+    width: 150px;
+}
